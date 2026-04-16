@@ -1,16 +1,42 @@
-# 👋 Hi, I'm Bibash Ghimire!
-## 🚀 Web Developer | Open Source Enthusiast
+# 👋 Hi, I'm Bibash Ghimire
 
-- 🔭 I’m currently working on [Full stack saas development project]
-- 🌱 I’m learning MERN Stack( postgress,node.js,react,express)
-- 💬 Ask me about React, Git & GitHub
-- 📫 How to reach me:
-- ⚡ Fun fact: I love debugging more than coding 😄
+### 🚀 Web Developer · Open Source Enthusiast
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Working on **Full Stack SaaS Projects**
+- 🌱 Learning **MERN Stack (PostgreSQL, Node.js, React, Express)**
+- 💬 Ask me about **React, Git & GitHub**
+- ⚡ Fun fact: *I enjoy debugging more than coding* 😄
+
+---
 
 ## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,github,npm,postgres,postman" />
+</p>
+
+---
 
 ## 📈 GitHub Stats
-![Bibash GitHub stats](https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=radical)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibash777225&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/bibash-ghimire-b56a9a2a4)
+<p>
+  <a href="https://www.linkedin.com/in/bibash-ghimire-b56a9a2a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bibash777225">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> *build • break • learn • repeat*
