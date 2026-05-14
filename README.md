@@ -17,12 +17,11 @@
 ---
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
-  [![Bibash's stats](https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/bibash777225)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibash777225&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/bibash777225)
-  [![Streak](https://streak-stats.demolab.com/?user=bibash777225&theme=tokyonight)](https://github.com/bibash777225)
+  <img src="https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibash777225&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/>
 </div>
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=bibash777225.main_page)
 
 ---
