@@ -2,13 +2,10 @@
 
 ### 🚀 Web Developer · Open Source Enthusiast
 
----
-
-## 🧑‍💻 About Me
 - 🔭 Working on **Full Stack SaaS Projects**
 - 🌱 Learning **MERN Stack (PostgreSQL, Node.js, React, Express)**
 - 💬 Ask me about **React, Git & GitHub**
-- ⚡ Fun fact: *I enjoy debugging more than coding* 😄
+- ⚡ Fun fact: *I enjoy debugging more than coding* 😄 🇳🇵
 
 ---
 
@@ -20,22 +17,18 @@
 ---
 
 ## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibash777225&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+<div align="center">
+  [![Bibash's stats](https://github-readme-stats.vercel.app/api?username=bibash777225&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/bibash777225)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibash777225&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/bibash777225)
+  [![Streak](https://streak-stats.demolab.com/?user=bibash777225&theme=tokyonight)](https://github.com/bibash777225)
+</div>
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=bibash777225.main_page)
 
 ---
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/bibash-ghimire-b56a9a2a4">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bibash777225">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+[paste your badges]
 
 ---
 
